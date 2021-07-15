@@ -26,3 +26,5 @@ comments in the Java and Python files and the `pom.xml` for those aspects that
 are of particular interest for Java and Python integration on GraalVM. The
 example is kept small on purpose to allow reading through all of those files and
 experiment.
+
+Blog post <https://medium.com/graalvm/supercharge-your-java-apps-with-python-ec5d30634d18>
